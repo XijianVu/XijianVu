@@ -17,34 +17,29 @@
 ### 🚀 **About Me**
 - 💼 **Full-Stack Developer** specialized in **React Native & Laravel**
 - 🔭 Currently working on **mobile & web applications**
-- 🌱 Exploring **Next.js, TypeScript, and Firebase**
+- 🌱 Exploring **TypeScript, and Firebase**
 - 💬 Ask me about **React Native, Laravel, Tailwind CSS, API Development**
 - ⚡ Fun fact: **I love problem-solving & late-night coding 🌙**
+- - 📫 **How to reach me:** [thuvm25@gmail.com](mailto:thuvm25@gmail.com)  
 
 ---
 
-### 🔧 **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,tailwind,laravel,php,mysql,firebase,typescript,html,css,js,nodejs,express,git,github,vscode,docker,figma" />
-</p>
 
----
-
-### 📊 **GitHub Stats**
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XijianVu&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://streak-stats.demolab.com?user=XijianVu&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XijianVu&layout=compact&theme=tokyonight" height="150" />
 </p>
 
----
-
-### 📈 **GitHub Activity Graph**
+### 🔧 **Tech Stack**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XijianVu&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,laravel,php,mysql,firebase,typescript,html,css,js,nodejs,express,git,github,vscode,docker,figma" />
 </p>
 
 ---
+
+
 
 ### 🏆 **GitHub Achievements**
 <p align="center">
@@ -55,7 +50,7 @@
 
 ### 🌍 **Let's Connect**
 <p align="center">
-  <a href="https://linkedin.com/in/XijianVu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/thu-vu-it/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/XijianVu"><img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github" /></a>
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
@@ -67,33 +62,8 @@
   <img src="https://i.imgur.com/IvQeAtP.png" width="400">
 </p>
 
----
 
-## 🚀 About Me  
-- 🎯 **Passionate about:** Web & Mobile Development  
-- 💻 **Tech Stack:** React Native, Expo, Laravel  
-- 🌱 **Currently Learning:** Firebase & Backend Optimization  
-- 🎨 **Hobbies:** UI/UX Design, Gaming  
-- 📫 **How to reach me:** [thuvm25@gmail.com](mailto:thuvm25@gmail.com)  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XijianVu&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://streak-stats.demolab.com?user=XijianVu&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XijianVu&layout=compact&theme=tokyonight" height="150" />
-</p>
-
-
----
-
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,laravel,php,mysql,firebase,git,github,vscode" />
-</p>
-
----
+----
 
 ## 🌍 Connect with Me  
 <p align="center">
