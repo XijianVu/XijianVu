@@ -20,7 +20,7 @@
 - 🌱 Exploring **TypeScript, and Firebase**
 - 💬 Ask me about **React Native, Laravel, Tailwind CSS, API Development**
 - ⚡ Fun fact: **I love problem-solving & late-night coding 🌙**
-- - 📫 **How to reach me:** [thuvm25@gmail.com](mailto:thuvm25@gmail.com)  
+- 📫 **How to reach me:** [thuvm25@gmail.com](mailto:thuvm25@gmail.com)  
 
 ---
 
@@ -31,6 +31,8 @@
   <img src="https://streak-stats.demolab.com?user=XijianVu&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XijianVu&layout=compact&theme=tokyonight" height="150" />
 </p>
+
+---
 
 ### 🔧 **Tech Stack**
 <p align="center">
@@ -52,7 +54,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/thu-vu-it/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/XijianVu"><img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:thuvm25@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
@@ -63,13 +65,6 @@
 </p>
 
 
-----
-
-## 🌍 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/thu-vu-it/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/XijianVu"><img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github" /></a>
-</p>
 
 
 
