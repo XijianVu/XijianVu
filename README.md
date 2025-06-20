@@ -19,7 +19,7 @@
 - 🔭 Currently working on **mobile & web applications**
 - 🌱 Exploring **TypeScript, and Firebase**
 - 💬 Ask me about **React Native, Laravel, Tailwind CSS, API Development**
-- ⚡ Fun fact: **I love problem-solving & late-night coding 🌙**
+- ⚡ Fun fact: **I love problem-solving **
 - 📫 **How to reach me:** [thuvm25@gmail.com](mailto:thuvm25@gmail.com)  
 
 ---
